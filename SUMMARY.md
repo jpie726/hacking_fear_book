@@ -1,5 +1,5 @@
 # Summary
 
 * [introduction](README.md)
-* Introduction to Habit Loops
+* [Introduction to Habit Loops](introduction_to_habit_loops.md)
 
