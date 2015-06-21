@@ -15,21 +15,11 @@ Well I do NOT a dorctorit in neuro-sceintist, and I no kid I have coached has ev
 
 No. Oddly enough coaching gymnastics, is not even technically my full time carreer as in I don't do it for the money. Coaching Gymnastics is my passion, and I assume yours if you take the time to read this.
 
-What I do to make money is archetect large scale web applications. 
+What I do to make money is archetect large scale web applications. In order to build secure web apps I need to know a little about how to break them,  I am a 'hacker' of sorts. 
 
 
 //About the term hacker
 
-####Not a Neuro Scientist:
-
-//Brain rules
-
-//Habits book
-####Not an olympic coach:
-
-
-
-####I am a hacker:
 
 //WS Journal
 
