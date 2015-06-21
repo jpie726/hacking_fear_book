@@ -17,16 +17,7 @@ No. Oddly enough coaching gymnastics, is not even technically my full time carre
 
 What I do to make money is archetect large scale web applications.
 
-
-
-
-
-//About the term hacker
-
-
-//WS Journal
-
-//TCD
+Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Winner 2012 Livebolt".
 
 ####Just a camp coach:
 
