@@ -3,7 +3,7 @@
 ###Problem:
 //Need a story...
 
-###This books solution:
+<!-- ###This books solution: -->
 This book contains tips, tricks, phylosphies and stratigies I have developed or adapted from other people to help my athaleates overcome fear issues. 
 
 This book contains a lot of gymnastics references but the lessions can be applied to most any sport or even life in general.
@@ -19,9 +19,8 @@ What I do to make money is archetect large scale web applications.
 
 Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Winner 2012 Livebolt".
 
-My occupation is relivant to gymnastics because through out this book I will use my analytical computer/debugging skills to show you new tricks and tips not widly used in coaching to help you help your atheltes through their fear issues.
+My occupation as a web application architect is relivant here because through out this book I will use my analytical computer/debugging skills to show you new tricks and tips not widly used in coaching to help you help your atheltes through their fear issues.
 
-####Just a camp coach:
 
 //Gives me the opportunity to work with 100s of kids
 
