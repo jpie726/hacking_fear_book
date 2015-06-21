@@ -1,3 +1,5 @@
+##Notes:
+##Summaries:
 [Brian Rules](http://www.brainrules.net/pdf/brainrules_summaries.pdf)
 
 
@@ -6,7 +8,7 @@ http://www.kimhartman.se/wp-content/uploads/2013/09/The-Power-of-Habit-Summary.p
 
 
 
-##Notes:
+
 
 ###Themes:
 
