@@ -15,9 +15,7 @@ Well I do NOT a dorctorit in neuro-sceintist, and I no kid I have coached has ev
 
 No. Oddly enough coaching gymnastics, is not even technically my full time carreer as in I don't do it for the money. Coaching Gymnastics is my passion, and I assume yours if you take the time to read this.
 
-What I do to make money is archetect large scale web applications.
-
-Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Winner 2012 Livebolt".
+What I do to make money is archetect large scale web applications. Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Winner 2012 Livebolt".
 
 My occupation as a web application architect is relivant here because through out this book I will use my analytical computer/debugging skills to show you new tricks and tips not widly used in coaching to help you help your atheltes through their fear issues.
 
