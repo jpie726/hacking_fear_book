@@ -1,4 +1,7 @@
 ##Notes:
+###Potential Titals:
+* Debugging Fear(less threatining)
+
 ##Summaries:
 [Brian Rules](http://www.brainrules.net/pdf/brainrules_summaries.pdf)
 
