@@ -4,4 +4,5 @@
 * [Introduction to Habit Loops](introduction_to_habit_loops.md)
 * [Learning Bad Habit Loops](learning_bad_habit_loops.md)
 * Understanding Ques
+* Debugging/Fixing Habit Loops
 
