@@ -13,3 +13,6 @@
 * * * Vocal Ques
 * * * Beam
 * * * Communication Types - Audiable
+* * Progressing to the goal
+* * * Dont say the skill - Its a bad que
+* * * Stay calm
