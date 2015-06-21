@@ -4,7 +4,7 @@
 //Need a story...
 
 ###This books solution:
-
+This book contains tips, tricks, phylosphies and stratigies I have developed or adapted from other people to help my atheats overcome fear issues.
 
 ###Who am I:
 
