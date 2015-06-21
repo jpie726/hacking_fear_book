@@ -23,6 +23,7 @@ Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Wi
 
 //Gives me the opportunity to work with 100s of kids
 
+//Testing learning/etc
 
 
 ###How to use this book:
