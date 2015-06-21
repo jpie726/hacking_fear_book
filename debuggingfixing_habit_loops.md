@@ -14,5 +14,6 @@
 * * * Beam
 * * * Communication Types - Audiable
 * * Progressing to the goal
-* * * Dont say the skill - Its a bad que
+* * * Don't say the skill - Its a bad que
 * * * Stay calm
+* * * Little Flogal - Cast Long Hang Pullover to handstand
