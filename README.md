@@ -19,6 +19,8 @@ What I do to make money is archetect large scale web applications.
 
 Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Winner 2012 Livebolt".
 
+My occupation is relivant to gymnastics because through out this book I will use my analytical computer/debugging skills to show you new tricks and tips not widly used in coaching to help you help your atheltes through their fear issues.
+
 ####Just a camp coach:
 
 //Gives me the opportunity to work with 100s of kids
