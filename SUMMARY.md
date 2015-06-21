@@ -2,4 +2,5 @@
 
 * [introduction](README.md)
 * Problem
+* Routines
 
