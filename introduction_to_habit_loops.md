@@ -1,5 +1,10 @@
 # Introduction to Habit Loops
+
+
+
 ###Behavioral Routines:
+Need a little bit on routines...
+
 
 
 
@@ -18,7 +23,7 @@ Something in the code is not triggering to tell the loop to stop running the pro
 ##How this applies to our atheletes:
 One of my favorite books on the topic of behavior is [The Power of Habit
 Why we do what we do and how to change]()
-By Charles Duhigg. In this book he discusses the concept of a habit loop. A habbit loop is what makes up perform various behaviors. 
+By Charles Duhigg. In this book he discusses the concept of a habit loop. A habit loop is what makes up perform various behaviors. 
 
 
 
