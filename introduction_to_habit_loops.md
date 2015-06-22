@@ -3,12 +3,17 @@
 
 
 ##Behavioral Routines:
-Need a little bit on routines...
+In gymnastics we
+
+Football and other sports are no differnt. We
+
+
+If you have an athelete that has fear issues you probablly are sitting there screaming "But I never drilled that routine into them! How did it get there!". The routine
 
 
 
 
-##How this applies to our atheletes:
+##Habit Loops:
 One of my favorite books on the topic of behavior is [The Power of Habit
 Why we do what we do and how to change]()
 By Charles Duhigg. In this book he discusses the concept of a habit loop. A habit loop is what makes up perform various behaviors. 
