@@ -2,23 +2,11 @@
 
 
 
-###Behavioral Routines:
+##Behavioral Routines:
 Need a little bit on routines...
 
 
 
-
-In programmming there are two important concepts that apply here:
-
-###Procedures:
-
-
-<!--###Loops:
-Loops are basically when you run a procedure more than once.
-
-You have probablly heard of a concept called an infinit loop. When you computer freezes up and seems to just display the same thing over and over without responding to your click and keystrokes this is most likely an infinite loop. Anoying right? 
-
-Something in the code is not triggering to tell the loop to stop running the procedure. -->
 
 ##How this applies to our atheletes:
 One of my favorite books on the topic of behavior is [The Power of Habit
