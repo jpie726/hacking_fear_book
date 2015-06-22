@@ -7,6 +7,7 @@ In gymnastics we train our atheletes to complete routuines right? A complex set 
 
 The same can be said for Football, Baseball, Cheer Leading, Martial Arts, etc. Think about the exact order that all of the various muscles must fire in order to throw a spirial touchdown pass or to succussfully do a sweap that takes your oponent to the ground while grappling. All of these are tiny routines that we learn and tweak over time.
 
+//...SOmething else...
 
 If you have an athelete that has fear issues you probablly are sitting there screaming "But I never drilled that routine into them! How did it get there!". The routine is just part of the habit loop, there is a lot more to it then just that. 
 
