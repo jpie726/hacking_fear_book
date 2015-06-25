@@ -71,11 +71,36 @@ I, not primarily being an audibal learner, had not thought of putting words to t
 Perhaps the presence of audible ques in the form of the music played along with a floor routine and the absence of any audible ques on beam can explain why you see so much more balking the beam then floor.
 
 Observing a famous coriographier/coach use music to set the pace of his beam complex somewhat confirmed this theory. 
+#####Applying it:
+Try it in your gym. For each skill in a particular series of skills leading up to or including the big bad skill make up simple verbal ques that can be strung together in a sequence that the athelete can use to assist their phyiscal actions. 
+
+Here is an example that I successfully used last week to help a girl through her giant, giant, fly aways on bars:
+
+* First Giant - "Toes up"
+* Second Giant - "Toes Up"
+* Fall into the fly away - "Pike Down"
+* Fly away - "That was easy"
+
+Additionally in an effort to get the athelete to drop their defensive mechnisims I would litterally sing the words aloud as the athelete did the skills for comedic effect. She went on the first turn after we applied this method and with in 5 turns was doing it herself without needing the words repeated aloud.
+
+######Single Skills/Series:
+In the above example you can see that we used this tequnique for just a small series of skills at the end of a bar routine. I have also had success using it in a single beam series pass leading up to the acro series. If you are going to do this I suggest not just creating an audio que for the big frightning skill but also a couple of steps a head. Making the que that starts the behavioral routine a couple of steps ahead of the danger area will increase the chance the trained habit loop triggers and not the unwanted habit loop. 
+
+######Full Routines:
+Of course this can tequnique can be applied to entire routines, that just depends on the atheletes ability to keep it all in their head. 
+
+One thing you may want to try is training your beam complex to music or even your entire beam routines. While training the routines you will have to play the song on repeat adnausium but how is that different from floor anyway? Once they get it down ideally they should be able to play the song in their head while their body performs the actions.
+
+
 
 ##In pratice/My mothers cooking:
 
+//COaches body language
 
-* * * Dueling Hemospheres/Elise Ray
+
+
+
+
 * * Repition
 * * * Michael Phelps vs my old vaulters
 * * * Vocal Ques
