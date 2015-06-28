@@ -61,6 +61,9 @@ One potential explination is lateralization of brain functions between the two c
 
 This lead me to wonder if the opposite was true. If I occupied the side that processed that audible information, that 'voice in the back of my head' then would that free the portion of the brain that is used to preform predetermined pyhsical routines?
 
+//TODO: ???? ADD 12 BRAIN RULES SMELL ASSOCIATION???
+
+
 ####Putting words to it:
 In 2013 I had the good fortune to attend a coaching clinic by an olympian on the topic of the mental side of gymnastics(I hope in future drafts of this book she will give me permission to use her name). It was an amazing clinic that opened my eyes to some great phylosophies and tequniques for dealing with fear. One of the things that really resinated with me was that she created audible ques to go along with her beam and floor routines. 
 
@@ -93,16 +96,75 @@ One thing you may want to try is training your beam complex to music or even you
 
 
 
-##In pratice/My mothers cooking:
+##Positive Association/My mothers cooking:
+There is another way associatin can be used to silence 'the voice in the back of their head'. 
 
-//COaches body language
+Back in 2013 a coach came to me with an athelete with a "mental block". The coach sent her athelete to me saying "Matt is going to work with you on SKILL X". If you remember earlier the mention of the skills name can be a verbal que to trigger the defensive habit loops that keep the athelete from performing the skill. This was indeed one of those times. This athelete was afraid to even touch the apperatious. I spotted this right away. I took a step back and started using my disruption tequniques I talked about earlier and started with basic floor drills that the athelete would have dificulty objecting to. 
+
+As we progressed I started to ask a series of seemingly unrelated questions aimed at creating a simple dialog with the athelete. 
+
+"What is your favorite subject in school?" etc. I have a series of quesitons are actually aimed at figuring out the athelete's learning style but I will save that topic for anther book.
+
+Me:"What did you have for breakfast?"
+The Athelete: "Pancakes"
+Me: "Nice, I am not a fan of the pancakes here."
+The Athelete: "Me neither"
+Me: "I had eggs with hot sause on them"
+The Athelete: "Yuck!?!"
+Me: "Have you tried it?"
+The Athelete: "No!"
+Me: "You should try it"
+The Athelete: "..."
+Me: "Breakfast is my favorite meal. Do you know why?"
+The Athelete: "Why?"
+Me: "When I was a kid my mom was raising me and my brother along and working full time but she always woke up before the crack of dawn to cook a warm breakfast for me and my brother"
+The Athelete: "Your lucky"
+Me: "I know. Tell me about your mom"
+
+The athelete and I then proceeded to have a long conversation about her mom, her dog, her grandma, etc. As we talked I was walking closer and closer to the big skill by progressing through seemingly random drills. All the while I never mentioned the name of the big skill triggering which would trigger verbal que that causes the unwanted behavior routine. 
+
+We eventally made our way to the high bar and quickly progressed from **baby giants** to **baby giants miss your hips** then finally to **baby giant miss your hips finish like a back extension roll to handstand**(A giant). The athelete's coach was speachless.
+
+###How it worked:
+During this exercise I started out using out conversation inbetween drills to assist in the **disruption** process. After a little while I changed gears to use our conversation to steer the conversation between the athelete and myself twards positive things; things she was comportable with: 
+
+* Her Mom
+* Her Grandma
+* Her Dog
+
+Theoretically this kept part of her subconches brain focused on those good memories ensuring her thoughts did not float back twards scary/negative thinking while the section of her brain that was controling the physical actions required to complete my drills was not inturupted. 
+
+Basically I associated positive thoughts with the enviroment, the skills, and perhaps even myself. This made the athelete more comphortable and able to complete the skill without the fear popping back up.
+
+
+NOTE: The story about my mom is true by the way. I can't thank here enough for that.
+
+
+###Coaches Body Language:
+When coaching an athelete our verbal conversation is just one small peace of the conversation. The tone of our voice, our facial expressions and our non-verbal body language can convay unintentional messages. Even young atheletes pick up on an astounding amount of non-verbal ques. Rmember this when trying to communicate anything to your atheletes.
+
+A lot of our body language is sub-conchis, as in we do not mean to communicate it. It just happens naturally. Whatever thoughts are in our mind get convayed via our body. 
+
+So trick yourself if you have to. Go out into the gym before pratice and get your head on strait. Do the same things you would have your athelete do:
+
+* Visualize yourself coaching them through the breakthrough
+* Repeat to yourself "She/He's got this!"
+* Etc
+
+It's tough to coach an athelete through a skill you yourself do not belive them capable of.
 
 
 
+##Repition:
+What do 
 
+###Michael Phelps vs my old vaulters
+http://www.livestrong.com/article/1002130-michael-phelps-before-race/
 
-* * Repition
-* * * Michael Phelps vs my old vaulters
+###John Wooden:
+//Teaching his atheletes to lace up their shoes
+//Gripping up?
+
 * * * Vocal Ques
 * * * Beam
 * * * Communication Types - Audiable
@@ -114,7 +176,7 @@ One thing you may want to try is training your beam complex to music or even you
 ###Take the mystery out of it by focus on what they can control:(POSSIBLY MOVE TO PREVIOUS CHAPTER)
 Remember the child that was afraid of the moster under the bed from our earlier example? We removed some uncertanty from their mind by showing them there is no moster under the bed. What if we took it a step forward by putting some control into their hands. What if we left them a flash light on their night stand so that any time they felt that mean old monster might be under the bed they could check for them selfs. 
 
-Putting a little control in the atheletes hands is a powerful thing. Often times the control is already there they just don't realize it. I mean its not you the coach/parent that controls the atheletes body. It's all them. Once you show them how much they actually control
+Putting a little control in the atheletes hands is a powerful thing. Often times the control is already there they just don't realize it. I mean its not you the coach/parent that controls the atheletes body. It's all them. Once you show them how much they actually control.
 
 
 //Skill peaces
