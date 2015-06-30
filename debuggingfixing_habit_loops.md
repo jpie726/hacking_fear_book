@@ -213,46 +213,67 @@ Repition can help you both on a micro and macro scale to craft habit loops that 
 
 
 ##Empowerment:
+One of the last tools I have in my bag of tricks is empowerment. This means showing the athelete how much they actually have control over. Earlier we talked about how uncertanty in the athelete's mind causes fear. 
 
 ###Take the mystery out of it by focus on what they can control:(POSSIBLY MOVE TO PREVIOUS CHAPTER)
 Remember the child that was afraid of the moster under the bed from our earlier example? We removed some uncertanty from their mind by showing them there is no moster under the bed. What if we took it a step forward by putting some control into their hands. What if we left them a flash light on their night stand so that any time they felt that mean old monster might be under the bed they could check for them selfs. 
 
 Putting a little control in the atheletes hands is a powerful thing. Often times the control is already there they just don't realize it. I mean its not you the coach/parent that controls the atheletes body. It's all them. Once you show them how much they actually control.
 
+
+###Example:
+Let's say little Susie saw another athelete ping off the bar and no one explained what caused the ping. All she knows is the girl casted up to do a giant(a big scary skill) and something went bad. What caused it is _uncertain_. It could have been that the athelete that pinged had the wrong stuff for breakfast. It could have been a bad spot by the coach. It could have been the bar she was swinging on. It could have been that the skill its self is a death trap. It could have been voodoo. My point is the athelete will probablly end up blaming the skill but could imagine up any amount of redicilous reasons the skill went wrong. It is your responsibility as a coach to:
+
+1. Help the athelete understand what went wrong - The athelete that pinged arched way to early
+2. Show them what they can control to make it go right - 'If you hold the hollow past the low bar by squeezing the muscles in your belly while you drop you will not ping_
+
+Notice that statment was an empowering statment. Lets break it down:
+* 'If you' - _you_(the athelete) are in control
+* 'hold the hollow shape past the low bar' -  do specific action for a specific easily hit period of time
+* 'by squeezing the muscles in your belly' - by performing a really simple set of actions that you have been doing since the first day you set foot in the gym
+* 'while you drop' - The duration of the above squeezing is a simple specific que (visual and haptic)
+* 'you will not ping' -  the result will be awesome and everyone will be happy and so on.
+
+Now they all of the suddon have control of the outcome. They no longer can attribute the outcome to unknown causes such as vodo or which side of the bed they woke up on. It is really simple and keeps them really focused on the parts of the skill that make a difference.
+
 ###Applying it:
 I suggest breaking down big skills into smaller peaces that the athelete can focus on. Peaces they are comfortable. Lets go back to my giant example. I broke it down to the following:
-//MATT FINISH THIS
 
-//Skill peaces
+####Understanding is key:
 
+
+####Magical Attributions:
 //Mystery Errors
 Giant tap
 
+####Blinders:
+Have you ever seen a hourse and buggy. Most of the time the hourse has some weird head gear on near that shield their prafiaral vision basically blinding them to anything that is not in front of them? This is so that the hourse doesnt get spooked or distracted by things that are out side of the area the driver wanted them focused on.
+
+Help your athelete's by creating blinders of your own. Make it very clear what they need to focus on. 
+#####Enviroment Blinders:
+This one is obvious but important all the same. Make sure there are no distractions in the enviorment. No variables that are not in your atheletes or at least your control. For example birthday partties in the gym with little ones running around create a whole new level of visual and audible distractions. Not to mention the potential child running through the bottom of the bar as your athelte cast up for a big skill.
+
+Another potential distraction could be the parents in the audience. I am a strong proponent of having parents watch pratices, but it can both be a good thing and a bad thing(I'll save discussion of the details of this for another book or series of books). Team mates can be distractions too. Cheering on the athelete in some cases might be a distraction; not for everyone but for some. 
+
+Just remember to be mindful of the potential distraction in the enviroment and try and figure out ways to eliminate them from your athelete's focus.
+
+#####Spotting Blinders:
+"Don't worry about what I as a coach am doing, just focus on the skill". If the athelete is thinking about what you are doing, specifically if you are going to spot or not, then they are not fully focused on the correction. They need to trust you, but more importantly they need to trust them selfs and that they can control the outcome if they perform the specific actions you have instructed them todo. If they are foucsed on you then you quickly become a crutch. 
+
+When this happens take a couple of steps back and do drills that do not depend on your spot that will help the athelete feel the correction in action and their ability to control the outcome of the drill based on their actions. Yes this is repetitive and may seem like back pettling but it is important they feel they have control and that there is no uncertanty when performing the action with out a spot.
+
+#####Correction Blinders:
+When I tell an athelete "I want you to focus on squeezing your belly muscles as you drop into the giant" this is obviously NOT the only thing I want them todo in the skill. I want them to cast, tap at the bottom, keep their arms strait, etc. But if I tell them that every time when I have already observed that those corrections are muscle memory then I am flooding them with input and distractions. To many things to focus on or correct can easily inhibit your athletes ability to make even one simple correction.
+
+I suggest finding the biggest barrier or in some cases the first issues in a string of many and focus on it until it is 100% muscle memory. Again this can take a long time but is worth it in the end.
 
 
-//Blinders for everything else
 
-//Verbage "Own it" - Not just the skill but the floor and everything else.
+###Verbage:
+A lot of times I tell the atheletes to "Own it" right before a pass. Lets say for example it is a tumbling pass: I typically indicate that there are no obstacles between them and their destination. I also point out the obserdity of imagining that I would be quick enough to remove a section of the floor or place an obstical in their way. This demonstraites that there are no changing variables in the enviroment that would effect the outcome of the pass. The only changing variables are the actions they take and they need to remember that the actions they take are under their control.
+
+"Own the round off, own the handspring, own the back tuck at the end. They are all yours. You are in control of it"
 
 
-
-
-
-####Verbage:
-I talked about this in the previous section where I discussed the difference between diagnosing an athelete with a "mental block" versus telling them they are "over thinking" something. This is because it is difficult to figure out what action to take to remove a _mental block_ but it is easier to figure out what action to take to counter act "over thinking": Either don't think about the skill or think about the peaces of the skill instead of the big scary skill as a whole. The point is the verbage I use and encourage the atheletes to use is **actionable**.
-
-Antoher phraseing I am adamte about correcting is the "I am bad at X" logic. If the athelete has it in their head that they are just "bad at bars" then why, why, why would they put any effort into bars. They are far more likely to focus on the events they feel they have a half a chance at. Again this is a **self fulfilling prophecy** and will encourage behavior that brings the "bad" statment to fruishion instead of creating actions against it. 
-
-What happens when I rephrase it to "I need to improve X"? This leads to the next question "What can I do to improve X?". The answer of that question then leads the athelete to a solid list of actions that they can pratice until the habit loop you want them to learn is cemented into their brain. Isn't that alot easier?
-
-Stating a single skill or routine "needs improvment" then proceeding to explain how to improve the skill works well but what about using it as a blanket labeling statment to describe the atheleate? As in "You need improvment on bars"? This is different but in my opion still fine as long as you can provide specific feedback on how they need to improve. "Susie needs to improve her bars and here are the actions she needs to take to improve them". Once she takes those actions she has improved her bars and the personal label is no longer really applicable. Even if the athelete still feels that their bars could use improvment as they progress and get older, is it the worst thing that they want to continue to improve even beyond the point that is considered good enough?
-
-####Natural Talent:
-Now I will be honest: it is not all sunshine and rainbows. It is true that not everyone is born with the same natural talent. Some people are naturals, and some have to work really hard to even make an inch of progress tward their goals. I am not encouraging you to decive all of your atheletes into beliving that. The highest level athelete I have ever had the pleasure of coaching was one of the least naturally talented.
-
-It can be equally as dangerious to allow your more _naturally talented_ atheletes to belive that is will all come naturally to them. This can easily lead to the illusion that everything will come easy. Perhaps that first 80% of the way will but that last 20% will require more effort then your athelete may be prepaired to put in. You can never be sure when they will cease to be able to coast through on their natural talent and it becomes an up hill battle but when it does you want your atheletes prepaired to push through it.
-
-What I would encourage is to have your atheletes focus on being "hard workers" not only that but "smart workers". I strong appreaciation for the fundementails .....
-//TODO: Finish this 
 
 
