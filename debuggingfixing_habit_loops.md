@@ -141,7 +141,7 @@ NOTE: The story about my mom is true by the way. I can't thank here enough for t
 
 
 ###Coaches Body Language:
-When coaching an athelete our verbal conversation is just one small peace of the conversation. The tone of our voice, our facial expressions and our non-verbal body language can convay unintentional messages. Even young atheletes pick up on an astounding amount of non-verbal ques. Rmember this when trying to communicate anything to your atheletes.
+When coaching an athelete our verbal conversation is just one small peace of the conversation. The tone of our voice, our facial expressions and our non-verbal body language can convay unintentional messages. Even young atheletes pick up on an astounding amount of non-verbal ques. Remember this when trying to communicate anything to your atheletes.
 
 A lot of our body language is sub-conchis, as in we do not mean to communicate it. It just happens naturally. Whatever thoughts are in our mind get convayed via our body. 
 
@@ -181,27 +181,51 @@ Similar verbal ques were used each time she got up to do the skill and got down 
 The big reason for this was that when it came time to do _the big scary skill_ absolutly nothing had changed. Same verbal ques, same kinestetic ques, no variation beyond "finishing like a back extension roll" which is something the athelete had been doing since she was a level 4 and was comfortable. Since I had not introduced even a single new variable there was no uncertanty in her mind both sub conches and conches. No uncertanty, no fear. So she got up and performed the repitions we had been praticing and sure enough popped that giant strait up to hand stand. Of course we did two more with the exact same ques before I let her down to chalk. Because it was not part of the routine we had built I never even mentioned the name of the skill untill we had done our third set of three and gone over to talk to her coach. The athelete was actually a little supprised that she was infact doing giants when we started to talk about it.
 
 
-###Michael Phelps vs my old vaulters
-http://www.livestrong.com/article/1002130-michael-phelps-before-race/
+###Michael Phelps:
+Michael Phelps, the olympic swimmer with 22 gold metals, was known to hold to an extreamly percice daily and pre-race routine. This is not by acceident. He and his coaches developed these routines over time to que him up for his amazing performances during his races. The smallest detail such as which ear his ear bud was in and which playlists he listened to. 
+
+
+
+For a small sample of his rotine check out [This article on LiveStrong.com](http://www.livestrong.com/article/1002130-michael-phelps-before-race/). For a more indepth look into his routines check out the book [The Power of Habit. Why we do what we do and how to change]().
 
 ###John Wooden:
-//Teaching his atheletes to lace up their shoes
-//Gripping up?
+//TODO: Research - Teaching his atheletes to lace up their shoes
+John Wooden is widly renound as one of the best collegic basketball coaches of all time if not one of the greatest coaches of any sport. One of the things he did that I find amazing during the first pratice of the season he would spend an increadible amount of time focused on the tinest details. He would literally walk his atheletes through how to lace up their shoes.
 
-* * * Vocal Ques
-* * * Beam
-* * * Communication Types - Audiable
-* * Progressing to the goal
+Imagine if we trained these tiny details in our repsective sports? What if in gymnastics during the first pratice after moving atheletes up from a lower level we stopped and took the time to review the exact process of gripping up and chalking up for bars? This just might decrease chalk talk and the 10 minutes teenagers seem to waste gripping up.
 
+
+###Willpower Vs Decisions:
+//TODO: Insert  real link
+In this [INSERT MAGAZINE NAME]() article they talk about how the President of America is NOT responsible for picking out his own clothes. He doesnt pick his breakfast either. There are a lot of day to day decisions that most of us as adults make that the president does not. Why is this? He doesn't want to waste his decision making power. 
+
+There have been many studies that show we have limited will power and that each decision you make exhausts your mental faculties a little bit untill your decision making abilities are shot and you start making bad decisions.
+
+Since you probablly do not have someone to pick out your tie and breakfast for you we have to rely on other tequniques such as creating a daily routine that dictates our decisions for us.
+Repeating a like Michale Phelps' routine over and over for years took makes it so its second nature. Like brushing your teeth. No need to waste mental energy making decisions.
+
+Allowing your athelete to diverge from their daily routine in the gym forces them to think and make decisions. This can be a good thing during the **disruption** stage but not great druring the **repition** phase. Each new decision they have to make potentially depleates their mental will power to push them self forward and make the tough decisions such as 'to go' or 'not to go'.
+
+
+###Repition Conclusion:(NOT SURE HOW THIS IS GOING TO FIT IN)
+Repition can help you both on a micro and macro scale to craft habit loops that will help your athelete perform at their best.
+
+
+
+##Empowerment:
 
 ###Take the mystery out of it by focus on what they can control:(POSSIBLY MOVE TO PREVIOUS CHAPTER)
 Remember the child that was afraid of the moster under the bed from our earlier example? We removed some uncertanty from their mind by showing them there is no moster under the bed. What if we took it a step forward by putting some control into their hands. What if we left them a flash light on their night stand so that any time they felt that mean old monster might be under the bed they could check for them selfs. 
 
 Putting a little control in the atheletes hands is a powerful thing. Often times the control is already there they just don't realize it. I mean its not you the coach/parent that controls the atheletes body. It's all them. Once you show them how much they actually control.
 
+###Applying it:
+I suggest breaking down big skills into smaller peaces that the athelete can focus on. Peaces they are comfortable. Lets go back to my giant example. I broke it down to the following:
+//MATT FINISH THIS
 
 //Skill peaces
 
+//Mystery Errors
 Giant tap
 
 
