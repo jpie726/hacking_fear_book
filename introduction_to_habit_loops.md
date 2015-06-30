@@ -74,13 +74,13 @@ By Charles Duhigg. In this book he discusses the concept of a habit loop.
 The habit loop can be broken down into 3 parts:
 
 ###Cue:
-An external stimulus that acts as a trigger. <!--Three of the most common types of stimulious are visual, audible or haptic. -->
+An external stimulus that acts as a trigger. 
 
 ###Routine:
 This is the exact sequence of actions that takes place once the brain has interputed the fore mentioned que. 
 
 ###Reward:
-The brain's perceives result of the actions after they are taken. <!--This can be either positive or negative. -->
+The brain's perceives result of the actions after they are taken.
 
 
 ####Example 1:
