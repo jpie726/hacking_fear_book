@@ -1,36 +1,52 @@
 # Debugging/Fixing Habit Loops
-This chapter is where my computer skills start to come in handy. You see in order to build secure web applications you need to know a little about the dark arts of hacking. Using similar techniques I have used to disrupt computer loops and alter a system's behavior I have had success applying them to my athletes to disrupt unwanted habit loops and alter their unwanted behavior routines.
+This chapter is where my computer skills start to come in handy. In order to build secure web applications you need to know a little about the dark arts of hacking. Using similar techniques I have used to disrupt computer loops and alter a system's behavior I have had success applying them to my athletes to disrupt unwanted habit loops and alter their unwanted behavior routines to benifit the athelete.
+
+Here I outline 4 tequniques I have developed over the years to help you get your athelete through their fear issues:
+
+* Disruption
+* Association
+* Repition
+* Empowerment
+
+Lets get into it.
 
 ###Disruption:
-When a system expects a number and you put in letters this is a form of disruption. The same can be applied to an athlete's habit loop to bypass the cue that triggers the behavior that prevents them from completing their skills.
+When a computer system expects a number and you put in letters this is a form of disruption. The same can be applied to an athlete's habit loop to bypass the cue that triggers the unwanted behavior routine preventing the athelete from completing their skills.
 
 
+####Drill Progression Ques:
+For example let's say the athlete is afraid of _Skill C_ and they know that during practice the coach has them start with _Skill A_, then _Skill B_, then _Skill C_. _Skill A_ followed by _Skill B_ becomes the cue to trigger the unwanted behavior. Try mixing it up a little, surprise them. Switch back to basics when they don't expect it. 
 
-####Progression Ques(TODO: Find a better name):
-For example let's say the athlete is afraid of skill c and they know that during practice the coach has them start with skill A, then skill B, then skill C. Skill A followed by Skill B becomes the cue to trigger the unwanted behavior. Try mixing it up a little, surprise them. Switch back to basics when they don't expect it. 
+Often times I am asked by other coaches to help their athletes get through their fear issues. The coach will tell the athlete "Go work with Matt on your giants". The athlete will tense up expecting me to toss them right up on the bar. Instead I will then spend the next 20 minutes doing shaping drills, back extension rolls, and other floor drills. Once the athlete is comfortable and I am happy with their basics we will eventually make our way to the real bar. 
 
-Often times I am asked by other coaches to help their athletes get through their fear issues. The coach will tell the athlete "Go work with Matt on your giants" and the athlete will tense up expecting me to toss them right up on the bar. I will then spend the next 20 minutes doing shaping drills, back extension rolls, and floor drills. Once the athlete is comfortable and I am happy with their basics we will eventually make our way to the real bar. Again they tense up in anticipation of the impending giant. I will then have them do tap swings, perhaps some casts, a hand full of clear hip circles focusing on grip flip until they big scary giant swing is back of mind. Finally we work our way to the point where the athlete's defenses are down and they no longer have their defense up. Now it is time to start thinking about working that big end skill, before you do I want to review some other points with you. 
+Again they tense up in anticipation of the impending giant. I will then have them do tap swings, perhaps some casts,and a hand full of clear hip circles focusing on grip flip until they big scary giant swing is again no longer in the front of their mind. Finally we work our way to the point where the athlete's mental defenses twards the skill are down. Now it is time to start thinking about working that big end skill. 
+
+Before you do I want to review some other points with you. 
 
 ####Verbal Ques:
-If they are afraid of giants don't call them 'giants'. I am not saying lie to them, but 'a rose by any other name'. Like I have been saying all along, break down the skill into its components. "Were going to do a cast handstand drop into a long hang pullover miss your hips and then finish like a back extension roll". If you are a gymnastics person then you know I pretty much described a giant in lessor terms. I would never tell a kid that whole thing but I would happily start out with a baby giant then tell the child just to focus on two key pieces like the "hollow fall" and "finishing like a back extension roll to handstand".
+If they are afraid of giants don't call them 'giants'. I am not saying lie to them, but 'a rose by any other name...'. Break down the skill into its components: "We are going to do a cast handstand drop into a long hang pullover miss your hips and then finish like a back extension roll". If you are a gymnastics person then you know I pretty much described a giant in wonky terms. I would never tell a kid that whole thing but I would happily start out with a baby giant then tell the child just to focus on two key pieces like the "hollow fall" and "finishing like a back extension roll to handstand".
 
-If you can dodge the easily avoidable verbal cues that trigger the defense mechanism. Even once the athlete throws one or two of them because they didn't realize what they were doing exactly I am hesitant to use the word for fear that it might cause the defensive behavioral routine to kick back in. Just be patient and keep it simple.
+Dodge the easily avoidable verbal cues that trigger the defense behavioral routine. Even once the athlete throws one or two of them because they didn't realize what they were doing exactly I am hesitant to use the word because it might cause the defensive behavioral routine to kick back in. Just be patient and keep it simple.
 
 
 ####Environment Ques:
-Another advantage of being a camp coach is that it is a brand new enviroment that the athlete has few if any preexisting ques. I mean a vault table is a vault table and a beam is a beam. Some ques will persist but lets look at all of the other aspects of the environment that is different:
+Another advantage of coaching at camp is that camp is a brand new enviroment. Here the athlete has few if any preexisting ques. A vault table is a vault table and a beam is a beam. Some ques will persist but lets look at all of the other aspects of the environment that is different:
+
 * The series of events that make up a daily practice
 * The coaching staff and the techniques they use
 * The facility
 * The group dynamics are altered by the other children that are not on your team
+* Litterally the bed they wake up in and the food they eat for breakfast
 
-All of this new stimuli might be enough to overwhelm them enough to forget their fear or the complete change of environment might just be different enough the ques don't get triggered in quite the same way.  Either way it's a huge advantage I have here at camp to overcome unwanted behavioral routines.
+All of this new stimuli might be enough to overwhelm to forget their fear or the complete change of environment might just be different enough the ques don't get triggered in quite the same way.  Either way it's a huge advantage I have here at camp to overcome unwanted behavioral routines.
 
-You can use similar approaches by tweaking similar variables. You could go to a camp or you could go to a friendly gym. You might not need to change the entire environment, try doing your drills in a different part of the gym or try brining the athlete in at a different time of day. Change your groupings, or switch coaches. Mix it up and keep them guessing a little. This will help you disrupt the unwanted habit loop.
+You can use similar approaches by tweaking variables in the atheletes enviroment. 
 
-#####Coaches Body Language can be an inhibitor
-//Perhaps move this to that last chapter
+* You could go to a camp or you could go to a friendly gym. 
+* You might not need to change the entire environment, try doing your drills in a different part of the gym or try brining the athlete in at a different time of day. 
+* Change your groupings, or switch coaches. 
 
+Mix it up and keep them guessing a little. This will help you disrupt the unwanted habit loop.
 
 
 ###Association:
