@@ -183,41 +183,54 @@ One thing you may want to try is training your beam complex to music or even you
 ##Repetition:
 We started out by **disrupting** the unwanted habit loop. Then we got their mind relaxed and positive with **association**. Now it is time to start building the new habit loops with **repetition**. 
 How do we teach our athletes any skill? Repetition after repetition after repetition until it's second nature. 
-So I am assuming you're no stranger to the repetition technique. 
-
-What I am focused on here is the tiny details. What happens between skills? What happens before you start practice on the event? How do they chalk up? The tiniest details can make a big difference in the athlete's behavior.
 
 
+Isn't that how we as coaches teach anything? Yes but what I am focused on here is the tiny details:
 
-###The above example:
-Remember the earlier association example? I told you I broke down her drills to basics right? I also used repetition to enforce certain habit loops I wanted her to get in her head as we progressed back toward the high bar and the big skill.
+* What happens between skills and drills? 
+* What happens before you start practice on the event? 
+* How do they chalk up? 
 
-Once we progressed past the non bar floor exercises I tried to do everything in sets of three and three sets of each exercise. I used chalking to break up the bar exercises into the sets.
-* 3 cast handstands then chalk then repeated three times
-* 3 clearhips to horizontal then chalk the repeat three times
-* 3 sets of 3 tap swings with good shape
-
-Additionally I would try and use the same verbal, visual, and kinesthetic cues. 
-
-I started her on floor by testing her shape.  I would make her hold a handstand and gently try and push her out of that shape while telling her not to let me. I did this with all of the basic shapes required to do a giant. This forced her to squeeze the muscle groups required to hold the shape. As we progressed I would test certain parts of her shape before each turn when she got ready to perform the drill. This enforced squeezing that muscle group during the skill into the behavior loop I was teaching her.
-
-Similar verbal cues were used each time she got up to do the skill and got down to chalk meanwhile in between we were having the aforementioned **association** conversation.
-
-The big reason for this was that when it came time to do _the big scary skill_ absolutely nothing had changed. Same verbal ques, same kinesthetic cues, no variation beyond "finishing like a back extension roll" which is something the athlete had been doing since she was a level 4 and was comfortable. Since I had not introduced even a single new variable there was no uncertainty in her mind both subconscious and conscious. No uncertainty, no fear. So she got up and performed the repetitions we had been practicing and sure enough popped that giant strait up to handstand. Of course we did two more with the exact same ques before I let her down to chalk. Because it was not part of the routine we had built I never even mentioned the name of the skill until we had done our third set of three and gone over to talk to her coach. The athlete was actually a little surprised that she was in fact doing giants when we started to talk about it.
-
+The tiniest details can make a big difference in the athlete's behavior.
 
 ###Michael Phelps:
-Michael Phelps, the olympic swimmer with 22 gold medals, was known to hold to an extremely precise daily and pre-race routine. This is not by accident. He and his coaches developed these routines over time to cue him up for his amazing performances during his races. The smallest detail such as which ear his ear bud was in and which playlists he listened to. 
-
+Michael Phelps, the olympic swimmer with 22 gold medals, was known to hold to an extremely precise daily and pre-race routine. This is not by accident. He and his coaches developed these routines over time to cue him up for his amazing performances during his races. This included the smallest detail such as which ear his ear bud was in and which playlists he listened to.
 
 
 For a small sample of his rotine check out [This article on LiveStrong.com](http://www.livestrong.com/article/1002130-michael-phelps-before-race/). For a more indepth look into his routines check out the book [The Power of Habit. Why we do what we do and how to change](http://amzn.to/1CHa2XW).
 
 ###John Wooden:
+John Wooden is widely renowned as one of the best collegiate basketball coaches of all time if not one of the greatest coaches of any sport. In this [News Week article](http://www.newsweek.com/john-wooden-first-how-put-your-socks-167942) they discuss one of his tequnkiques that I find amazing. 
 
-John Wooden is widely renowned as one of the best collegiate basketball coaches of all time if not one of the greatest coaches of any sport. In this [News Week article](http://www.newsweek.com/john-wooden-first-how-put-your-socks-167942) one of his tequnkiques that I find amazing. During the first practice of the season he would spend an incredible amount of time focused on the tiniest details. He would literally walk his athletes through how to lace up their shoes.
+During the players first practice he would spend an incredible amount of time focused on the tiniest details. He would literally walk his athletes through how to lace up their shoes.
 
-Imagine if we trained these tiny details in our respective sports? What if in gymnastics during the first practice after moving athletes up from a lower level we stopped and took the time to review the exact process of gripping up and chalking up for bars? This just might decrease chalk talk and the 10 minutes teenagers seem to waste gripping up.
+Imagine if we trained these tiny details in our respective sports? What if in gymnastics during the first practice after moving athletes up from a lower level we stopped and took the time to review the exact process of gripping up and chalking up for bars? By teaching them the right way you could decrease the 10 minutes teenagers seem to waste gripping up and chalk talk inbetween turns.
+
+###Back to our earlier example:
+Remember the earlier association example? I told you I broke down the young athelete's drills to basics right? I also used repetition to enforce certain habit loops I wanted to mentally condition into her as we progressed back toward the high bar and the big skill.
+
+Once we moved past the basic floor exercises I tried to do each drill three times before letting her down to chalk. We then repeate that cycle three times before progressing onto the next drill. 
+
+* 3 cast handstands then chalk then repeated three times
+* 3 clearhips to horizontal then chalk the repeat three times
+* 3 sets of 3 tap swings with good shape
+
+This created a simple pattern for us to follow.  
+
+Additionally I would try and use the same verbal, visual, and kinesthetic cues as I coached so as not to disrupt the pattern. I started her on floor by testing her shape.  I would make her hold a handstand and gently try and push her out of that shape while telling her not to let me. I did this with all of the basic shapes required to do a giant. This forced her to squeeze the muscle groups required to hold the shape. 
+
+As we progressed I would test certain parts of her shape before every turn when she got ready to perform the drill. This enforced squeezing that muscle group during the skill into the behavior loop I was teaching her.
+
+Similar verbal cues were used each time she got up to do the skill and got down to chalk.
+
+The big reason for all of this was that when it came time to do _the big scary skill_ absolutely nothing had changed. Same verbal ques, same kinesthetic cues, no variation beyond "finishing like a back extension roll" which is something the athlete had been doing since she was a level 4 and was comfortable with. Since I had not introduced even a single new variable there was no uncertainty in her mind both subconscious and conscious. No uncertainty their fore no fear. 
+
+So she got up and performed the repetitions we had been practicing and sure enough popped that giant strait up to handstand. Of course we did two more with the exact same ques before I let her down to chalk. 
+
+Because it was not part of the routine we had built I never even mentioned the name of the big scary skill until we had done our third set of three and gone over to talk to her coach. The athlete was actually a little surprised that she was in fact doing giants when we started to talk about it.
+
+
+
 
 
 ###Willpower Vs Decisions:
@@ -234,6 +247,13 @@ Allowing your athlete to diverge from their daily routine in the gym forces them
 
 ###Repetition Conclusion:(NOT SURE HOW THIS IS GOING TO FIT IN)
 Repetition can help you both on a micro and macro scale to craft habit loops that will help your athlete perform at their best.
+
+
+
+
+
+
+
 
 
 
