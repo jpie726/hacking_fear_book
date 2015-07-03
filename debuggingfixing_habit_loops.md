@@ -130,7 +130,7 @@ Basically I associated positive thoughts with the environment, the skills, and p
 By the way the story about my mom is true. I can't thank her enough for that.
 
 
-###Coaches Body Language:
+####Coaches Body Language:
 When coaching an athlete our verbal conversation is just one small piece of the interaction. The tone of our voice, our facial expressions and our non-verbal body language can convey unintentional messages. Even young athletes pick up on an astounding amount of non-verbal cues. Remember this when trying to communicate anything to your athletes.
 
 A lot of our body language is subconscious, as in we do not mean to communicate it. It just happens naturally. Whatever thoughts are in our mind get conveyed via our body. 
@@ -139,10 +139,8 @@ So trick yourself if you have to. Go out into the gym before practice and get yo
 
 * Visualize yourself coaching them through the breakthrough
 * Repeat to yourself "She/He's got this!"
-* Etc
 
 It's tough to coach an athlete through a skill you yourself do not believe them capable of.
-
 
 
 ####Putting words to it:
@@ -174,6 +172,8 @@ In the above example you can see that we used this technique for just a small se
 Of course this technique can be applied to entire routines. It just depends on the athlete's ability to keep it all in their head. 
 
 One thing you may want to try is training your beam complex to music or even your entire beam routines. While training the routines you will have to play the song on repeat ad nauseum but how is that different from floor anyway? Once they get it down ideally they should be able to play the song in their head while their body performs the actions.
+
+
 
 
 
