@@ -233,26 +233,17 @@ Because it was not part of the routine we had built I never even mentioned the n
 
 
 
-###Willpower Vs Decisions:
-//TODO: Insert  real link
-In this [INSERT MAGAZINE NAME]() article they talk about how the President of America is NOT responsible for picking out his own clothes. He doesn't pick his breakfast either. There are a lot of day to day decisions that most of us as adults make that the president does not. Why is this? He doesn't want to waste his decision making power. 
+###Decision Fatigue:
+In this [Fast Company](http://www.fastcompany.com/3026265/work-smart/always-wear-the-same-suit-obamas-presidential-productivity-secrets) article they talk about how the President of America always wears the same suit. He applys this to a lot of day to day decisions that most of us as adults make like what he eats for breakfast. Why is this? The answer:
 
-There have been many studies that show we have limited willpower and that each decision you make exhausts your mental faculties a little bit until your decision making abilities are shot and you start making bad decisions.
+**He doesn't want to waste his decision making power.**
 
-Since you probably do not have someone to pick out your tie and breakfast for you we have to rely on other techniques such as creating a daily routine that dictates our decisions for us.
+There have been many studies that show we have limited willpower and that each decision you make exhausts your mental faculties a little bit until your decision making abilities are shot and you start making bad decisions. It's called **Decision Fatigue**.
+
+He negates these effects by creating a daily routine that dictates his decisions for him.
 Repeating a like Michael Phelps' routine over and over for years took makes it so its second nature. Like brushing your teeth. No need to waste mental energy making decisions.
 
 Allowing your athlete to diverge from their daily routine in the gym forces them to think and make decisions. This can be a good thing during the **disruption** stage but not great during the **repetition** phase. Each new decision they have to make potentially depletes their mental will power to push himself forward and make the tough decisions such as 'to go' or 'not to go'.
-
-
-###Repetition Conclusion:(NOT SURE HOW THIS IS GOING TO FIT IN)
-Repetition can help you both on a micro and macro scale to craft habit loops that will help your athlete perform at their best.
-
-
-
-
-
-
 
 
 
