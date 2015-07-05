@@ -33,6 +33,6 @@ If you're lucky some of the concepts, tips, and tricks can be applied outside of
 
 ###Without further adue:
 
-Please enjoy this early draft of **Hacking Gymnastics** by [Matt Lea](http://shiporgetoffthepot.com?utm_source=hacking_gymnastics).
+Thank you for reading and please enjoy this early draft of **Hacking Gymnastics** by [Matt Lea](http://shiporgetoffthepot.com?utm_source=hacking_gymnastics).
 
 
