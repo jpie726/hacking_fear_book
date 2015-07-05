@@ -1,4 +1,4 @@
-In the last chapter we were able to zero in on the exact cues and behavirol routines that is causing the athelete to avoid going for the big skill. Now it is time to help the athlete through their fear issue. The easiest way I find is to help the athlete understand the what they are afraid of.
+In the last chapter we were able to zero in on the exact cues and behavioral routines that is causing the athlete to avoid going for the big skill. Now it is time to help the athlete through their fear issue. The easiest way I find is to help the athlete understand the what they are afraid of.
 
 What causes fear: **uncertainty**. 
  * Uncertainty of the outcome of your actions.
@@ -19,10 +19,10 @@ _It's dark and I can't see it so there is probably a monster in it._
 
 What if you turned on the lights, lifted up the bed, and let the child look under the bed before bedtime? The child can look under the bed and see for themselves. This removes a small amount of uncertainty from the child and their for removes some amount of fear.
 
-Perhaps you can to coninually reassure there are no monsters in the dark so you add a night light so they can look anytime they want and besure the room is clear of nefarious creatures.
+Perhaps you can to continually reassure there are no monsters in the dark so you add a night light so they can look anytime they want and be sure the room is clear of nefarious creatures.
 
 ###What scares us adults:
-Think about what you as an adult are afraid of. Since I consult on a contract basis as my primary form of income what keeps me up at night in a cold sweat is the uncertainty of when that next contract will land. Financial uncertanty a constant source of terror for me and many other adults. 
+Think about what you as an adult are afraid of. Since I consult on a contract basis as my primary form of income what keeps me up at night in a cold sweat is the uncertainty of when that next contract will land. Financial uncertainty a constant source of terror for me and many other adults. 
 
 ###Fear vs Respect:
 Are you afraid of the hot burners on your stove? Arguably your stoves hot burners could cause far more severe physical and immediate pain then your financial woes. So why aren't you afraid of your stove?
@@ -61,8 +61,6 @@ Me: "What are the chances that you will let go and fly away through the roof and
 Athlete:"Zero"
 Me: "So no matter what your going to end up in the...?"
 Athlete: "The pit..."
-<!-- Me: "So no matter what you will be pretty safe right?"
-Athlete:"Yes" -->
 Me:"The only difference is how you are going to feel afterward. If you go over the bar and try your giant how do you think you will feel?" 
 Athlete: "Good"
 Me: "You should, it will be awesome. How about if you jump down without trying?"
@@ -71,10 +69,12 @@ Me:"Probably not great. That is the big difference. You know no matter what your
 
 I have had this conversation literally hundreds of times. Yes the events, aperateratouses and skills change but the principal is the same: **If you can remove uncertainty from the equation then you can remove fear**.
 
-Gymnastics coaches will probably thinking "But approach will not work when getting kids to swing the giant outside of the foam pit? What about on regular bar?". Lets be honest even the pit is not 100% safe. 90% maybe but nothing is 100%. We as coaches are responsible to build a training environment at each stage of the training process that can remove the possibility of catastrophic injury beyond a reasonable doubt. There are plenty of techniques for doing this: Adding additional matting, spotting belt, hand spotting the skill, etc. Unfortunatly what seems like a reasonable doubt to us, to the lawers, and to the athelete are three different things but still you must try and make it as safe as possible.
+Gymnastics coaches will probably thinking "But approach will not work when getting kids to swing the giant outside of the foam pit? What about on regular bar?". Lets be honest even the pit is not 100% safe. 90% maybe but nothing is 100%. We as coaches are responsible to build a training environment at each stage of the training process that can remove the possibility of catastrophic injury beyond a reasonable doubt. There are plenty of techniques for doing this: Adding additional matting, spotting belt, hand spotting the skill, etc. Unfortunately what seems like a reasonable doubt to us, to the lawyers, and to the athlete are three different things but still you must try and make it as safe as possible.
 
 ##Conclusion:
 In the upcoming chapters we will go through more of those tips and tricks to make this all possible. For now just remember fear is caused by uncertainty. Remove uncertainty and you will remove fear.
+
+
 
 
 
