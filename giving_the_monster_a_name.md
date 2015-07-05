@@ -1,30 +1,30 @@
 #Coaches/Parents Bad Habits:
-Have you ever watched the tv show [The Dog Whisperer](http://www.cesarsway.com/channel/dog-whisperer-tv)? Typically when trying to fix a pet's bad habits he starts by changing the owner's behavior. Well I hate to have to say it but 99% of the time this holds true for atheletes and coaches. In this section I behaviors coaches and parents do that contribute to the athelete's issues. 
+Have you ever watched the tv show [The Dog Whisperer](http://www.cesarsway.com/channel/dog-whisperer-tv)? Typically when trying to fix a pet's bad habits he starts by changing the owner's behavior. Well I hate to have to say it but 99% of the time this holds true for athletes and coaches. In this section I behaviors coaches and parents do that contribute to the athlete's issues. 
 
-A bit ashamed I will admit that I have even been guilty of this behavior in the past. I have since changed my own behavior patterns and it has made a huge difference in my atheletes progress.
+A bit ashamed I will admit that I have even been guilty of this behavior in the past. I have since changed my own behavior patterns and it has made a huge difference in my athletes progress.
 
-I purposly saved this part for the end of the book because I have a feeling this will be the least popular with a lot of coaches and parents. No one likes to be told they have been doing it wrong and with any luck you have not. Hopefully you are not one of the coaches/parents that have been feeding the fear monster instead of giving the child the flashlight so they can see its all in their imaginations.
+I purposely saved this part for the end of the book because I have a feeling this will be the least popular with a lot of coaches and parents. No one likes to be told they have been doing it wrong and with any luck you have not. Hopefully you are not one of the coaches/parents that have been feeding the fear monster instead of giving the child the flashlight so they can see it's all in their imaginations.
 
 
 ##Giving the monster under the bed a name:
-When you were a kid did you ever imagine there was a monster under the bed or in the closit? Lets say for a second you did. What if your parents, instead of reassuring you of this monsters ficticiousiousnes, decided to give him a name like "Razor Tooth" or "Child Eater". Giving him a name makes him real, at least in the childs head. It works with Santa Claus and the Tooth Fairy right?
+When you were a kid did you ever imagine there was a monster under the bed or in the closet? Let's say for a second you did. What if your parents, instead of reassuring you of this monsters ficticiousiousnes, decided to give him a name like "Razor Tooth" or "Child Eater". Giving him a name makes him real, at least in the child's head. It works with Santa Claus and the Tooth Fairy right?
 
 ####Mental Block:
-A dangerious thing I see coaches and parents do all of the time is to tell the children that are forming undesired habit loops that they have a "mental block". 
+A dangerous thing I see coaches and parents do all of the time is to tell the children that are forming undesired habit loops that they have a "mental block". 
 
-Though you may be correct in your diagnosis that they are begining to learn an unwanted habit loop and you may, in your head, refer to it as a "mental block" those or similar words have a powerful affect on young atheletes.
+Though you may be correct in your diagnosis that they are beginning to learn an unwanted habit loop and you may, in your head, refer to it as a "mental block" those or similar words have a powerful affect on young athletes.
 
-Labeling it a "mental block" cements the undesired habit loop by afirming as far as the young athelete is concerened that there is a 'scientific' diagnosis why they are unable to perform the desired behavioral routine.
+Labeling it a "mental block" cements the undesired habit loop by affirming as far as the young athlete is concerned that there is a 'scientific' diagnosis why they are unable to perform the desired behavioral routine.
 
 
-At least with the Tooth Fairy a child can disprove the illusion by pertending to be asleep and catching you in the act of putting money under their pillow. Beyond getting an x-ray of the athelete's head and showing them there is nothing physically in there brain I can't think of any way they, on their own, they can disproove this ruse. 
+At least with the Tooth Fairy a child can disprove the illusion by pretending to be asleep and catching you in the act of putting money under their pillow. Beyond getting an x-ray of the athlete's head and showing them there is nothing physically in their brain I can't think of any way they, on their own, they can disprove this ruse. 
 
-I prefer to use the term "over thinking" the skill. With a "mental block" how do you get over it? It's not like it's a physical obstical they can just side step. To the young athelete it is a mysterious intangable thing lodged in their brain. Now not "over thinking" is slightly easier. Focus on something else:
+I prefer to use the term "over thinking" the skill. With a "mental block" how do you get over it? It's not like it's a physical obstacle they can just side step. To the young athlete it is a mysterious intangible thing lodged in their brain. Now not "over thinking" is slightly easier. Focus on something else:
 
 * Mom's fresh cooked breakfast
 * Audible ques
 * The individual shapes you need to do the skill
-*Even butterflys and faries if that does the trick
+* Even butterflies and fairies if that does the trick
 
 Do you see how one label "over thinking" is actionable and the other label "mental block" is completely unactionable. 
 
@@ -33,51 +33,53 @@ Other labels that are actionable include:
 * You are "stressing" - Then they need to relax
 * You are "exhausted" or even "mentally exhausted" on a skill - Then you need to rest and take some recovery time.
 
-Be cairful with these diagnosises. If you give them actionable diagnosis then they can act to fix the issues.
+Be careful with these diagnoses. If you give them actionable diagnosis then they can act to fix the issues.
 
 ####Mental Case:
-At camp I get a lot of coaches that come to me and in front of their athele tell me that "She is a Mental Case". The term  "Mental Case" and similar terms are even more dangerious labels then the above mentioned temporary labels like "mental block". Where as having a "mental block" in an young atheletes head might be percevied as having something similar to the flu that will go away eventually being labled as a _"Mental Case"_ is a personal trait that will most likely stick with the athelete for a very long time; possibly even beyond their gymnastics carreer in to adult hood. That makes it a much longer term and potentially damaging coach/parent behavior.
+At camp I get a lot of coaches that come to me and in front of their athlete tell me that "She is a Mental Case". The term  "Mental Case" and similar terms are even more dangerous labels then the above mentioned temporary labels like "mental block". Where as having a "mental block" in an young athletes head might be perceived as having something similar to the flu that will go away eventually being labeled as a _"Mental Case"_ is a personal trait that will most likely stick with the athlete for a very long time; possibly even beyond their gymnastics career into adulthood. That makes it a much longer term and potentially damaging coach/parent behavior.
 
 
 #####Self Fulfilling Prophecy:
 Being labeled as a anything typically creates a **self fulfilling prophecy**. 
 
-You may have heard of one of the great expirements on this published in [Pygmalion in the Classroom: Teacher Expectation and Pupils](http://www.amazon.com/gp/product/1904424066?ie=UTF8&tag=ride2shoot-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1904424066) by  Robert Rosenthal and Lenore Jacobson. This is the famous classroom expirement where they took classes of children and split them into two groups. They mixed the children into two groups that both contained a mix of children with high academic aptitude as well as low aptitude. The teachers were decived by being told group A had only high achivers and group B had only low achivers. At the begining of the school year on averedge there was no real difference between the groups as a whole. Both groups contained a mix of good and bad scoring studients. By the end of the semester the group labeled "high-achivers" were on averedge scoring higher and the group labeled "Low-achiver" were scoring lower.
+You may have heard of one of the great expirements on this published in [Pygmalion in the Classroom: Teacher Expectation and Pupils](http://www.amazon.com/gp/product/1904424066?ie=UTF8&tag=ride2shoot-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1904424066) by  Robert Rosenthal and Lenore Jacobson. This is the famous classroom experiment where they took classes of children and split them into two groups. They mixed the children into two groups that both contained a mix of children with high academic aptitude as well as low aptitude. The teachers were deceived by being told group A had only high achievers and group B had only low achievers. At the beginning of the school year on average there was no real difference between the groups as a whole. Both groups contained a mix of good and bad scoring students. By the end of the semester the group labeled "high-achievers" were on average scoring higher and the group labeled "Low-achiever" were scoring lower.
 
 The bottom line is: 
 **People tend to live up to their expectations set for them** 
 
 This typically happens because we tend to unconsciously create situations that encourage the expected behavior patterns.
 
-Our entire life unwanted titles that dictate our behaviors are going to be placed on us and our atheletes. Why should we as coaches/parents add one more negative titles? Shouldn't we be adding positive titles?
+Our entire life unwanted titles that dictate our behaviors are going to be placed on us and our athletes. Why should we as coaches/parents add one more negative titles? Shouldn't we be adding positive titles?
 
 
 
 
 ###I am bad at... 
-Antoher dangerious phraseing is the "I am bad at X" logic. If the athelete has it in their head that they are just "bad at bars" then why would they put any effort into bars? They are far more likely to focus on the events they feel they have a chance at. Again this is a **self fulfilling prophecy** and will encourage behavior that brings the "bad" statment to fruishion instead of creating actions to fix it. 
+Another dangerous phrasing is the "I am bad at X" logic. If the athlete has it in their head that they are just "bad at bars" then why would they put any effort into bars? They are far more likely to focus on the events they feel they have a chance at. Again this is a **self fulfilling prophecy** and will encourage behavior that brings the "bad" statement to fruition instead of creating actions to fix it. 
 
 ###Single Skill Use:
-Stating a single skill or routine "needs improvment" then proceeding to explain how to improve the skill works as well. 
+Stating a single skill or routine "needs improvement" then proceeding to explain how to improve the skill works as well. 
 
-What happens when I rephrase it to "I need to improve X"? This leads to the next question "What can I do to improve X?". The answer of that question then leads the athelete to a solid list of actions that they can pratice until the habit loop you want them to learn is cemented into their brain.
+What happens when I rephrase it to "I need to improve X"? This leads to the next question "What can I do to improve X?". The answer of that question then leads the athlete to a solid list of actions that they can practice until the habit loop you want them to learn is cemented into their brain.
 
 
 ###Event Wide Use:
-What about using it as a blanket labeling statment to describe the atheleate? As in "You need improvment on bars"? 
+What about using it as a blanket labeling statement to describe the athlete? As in "You need improvment on bars"? 
 
 This is different but fine as long as you can provide specific feedback on how they need to improve:
 
 _"Susie needs to improve her bars and here are the actions she needs to take to improve them"_.
 
-Once she takes those actions she has improved her bars and the personal label is no longer really applicable. Even if the athelete still feels that their bars could use improvment as they progress and get older is it the worst thing that they want to continue to improve even beyond the point that is considered good enough?
+Once she takes those actions she has improved her bars and the personal label is no longer really applicable. Even if the athlete still feels that their bars could use improvement as they progress and get older is it the worst thing that they want to continue to improve even beyond the point that is considered good enough?
 
 ####Natural Talent:
 It is not all sunshine and rainbows. I will be honest:  **Not everyone is born with the same natural talent**. 
 
-Some people are naturals, and some have to work really hard to even make an inch of progress tward their goals. The highest level athelete I have ever had the pleasure of coaching was one of the least naturally talented.
+Some people are naturals, and some have to work really hard to even make an inch of progress toward their goals. The highest level athlete I have ever had the pleasure of coaching was one of the least naturally talented.
 
-It can be equally as dangerious to allow your more _naturally talented_ atheletes to belive that is will all come naturally to them. This can easily lead to the illusion that everything will come easy. Perhaps that first 80% of the way will but that last 20% will require more effort then your athelete may be prepaired to put in. You can never be sure when they will cease to be able to coast through on their natural talent and it becomes an up hill battle but when it does you want your atheletes prepaired to push through it.
+It can be equally as dangerous to allow your more _naturally talented_ athletes to believe that is will all come naturally to them. This can easily lead to the illusion that everything will come easy. Perhaps that first 80% of the way will but that last 20% will require more effort than your athlete may be prepared to put in. You can never be sure when they will cease to be able to coast through on their natural talent and it becomes an uphill battle but when it does you want your athletes prepared to push through it.
 
-What I would encourage is to have your atheletes focus on being "hard workers" and a strong appreaciation of the fundementals. Everyone, even the most naturually talented atheletes, have room for improvement.
+What I would encourage is to have your athletes focus on being "hard workers" and a strong appreciation of the fundamentals. Everyone, even the most naturally talented athletes, have room for improvement.
+
+
 
