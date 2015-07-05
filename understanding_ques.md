@@ -12,7 +12,7 @@ _"I am afraid of skill C. My coach always starts us with skill A, then B, then C
 
 Sometimes the obvious behavior pattern we see is NOT the real root of the problem.
  
-Don't be mad. Chances are on some level the athlete is aware that they are afraid and doing something wrong but I doubt they have plotted out some grand scheme to decive you avoid the doing the skill. It's not like there sitting there saying:
+Don't be mad. Chances are on some level the athlete is aware that they are afraid and doing something wrong but I doubt they have plotted out some grand scheme to deceive you avoid the doing the skill. It's not like there sitting there saying:
 
 _"I am not going to go for my skills just to piss everyone off"_.
 
@@ -27,11 +27,11 @@ Stay calm and break it down; getting mad doesn't help anything.
 Assuming you have selected the exact(or approximate) behavioral routine you are trying to fix then you need to look back and find the cue that triggers it. In the above example skill A followed by skill B may seem to be the triggers but they are only a defense mechanism, a ruse. 
 
 
-If the athelete has expirenced pain then it is probablly the a feeling strongly associated with the skill, like the last thing they felt/saw before they felt the pain. If the athelete has not endured injury during this then it might just be the feeling of something they are not used to that triggers the defense mechnisims. This means it could be a far wider set of ques.
+If the athlete has experienced pain then it is probably the a feeling strongly associated with the skill, like the last thing they felt/saw before they felt the pain. If the athlete has not endured injury during this then it might just be the feeling of something they are not used to that triggers the defense mechanisms. This means it could be a far wider set of ques.
 Either way there is a trigger causes the athlete to balk on the skill.
 
 #####Haptic:
-Sometimes it’s something the athelete feels: 
+Sometimes it’s something the athlete feels: 
 
 * The free falling while dropping into a giant that triggers the athlete to lose shape.
 * The leaning backward feeling as an athlete sits into a back handspring on the beam that triggers them to hop off to the side or take a step back. 
@@ -39,15 +39,15 @@ Sometimes it’s something the athelete feels:
 #####Visual: 
 Sometimes it's something they see visually: 
 
-* The athlete sees the table rapidly approaching as they run tward it on a vault and vears to the side.
+* The athlete sees the table rapidly approaching as they run toward it on a vault and veers to the side.
 * They don't see the ground on a flip and whip their head out to spot the ground.
 
 
 ###Getting to the bottom of it:
-What are the ques specific to your athelete? You could try asking an athlete "What is the cue that triggers this unwanted behavioral routine?" or "Why aren't you going for your backhandspring?". Unless you have an athlete that is exceptionally talented at putting their most inner thoughts into words you will probablly hear something like "I dont know". 
+What are the ques specific to your athlete? You could try asking an athlete "What is the cue that triggers this unwanted behavioral routine?" or "Why aren't you going for your backhandspring?". Unless you have an athlete that is exceptionally talented at putting their most inner thoughts into words you will probably hear something like "I don't know". 
 
 ####Ask specific questions:
-Asking broad questions won't get you to far here. Small focused questions work better. "What do you see as your falling into your giants? The X I drew on the base mat between the bars where you should be pointing your toes? Your toes? The bar? Me, the coach?" or "What do you feel as you're sitting back into your handspring?" work a lot better. You want to get as granular as possible. Remember we are most likely looking for a visual or haptic(feel) que. Audible cue might be more previlant in other sports but it is not to often they trigger this kind of fear in gymnastics.  
+Asking broad questions won't get you to far here. Small focused questions work better. "What do you see as your falling into your giants? The X I drew on the base mat between the bars where you should be pointing your toes? Your toes? The bar? Me, the coach?" or "What do you feel as you're sitting back into your handspring?" work a lot better. You want to get as granular as possible. Remember we are most likely looking for a visual or haptic(feel) que. Audible cue might be more prevalent in other sports but it is not to often they trigger this kind of fear in gymnastics.  
 
 
 
@@ -63,7 +63,7 @@ This may seem a bit silly but that is partially the point: **To show the athlete
 Assuming the previous step is not the issue(and I sincerely doubt it ever will be). Then have the athlete run almost to the table but vear out of the way of the table at the end. Again stop and walk through the run and ask the athlete what they saw and felt. Was there anything in here that triggered a behavior routine to avoid the vault?
 
 #####Step 3:
-Next try some hurdle drills without the run to isolate the hurdle onto the board. For a Yurchanko vault you may want to break down the round off with a jump up. Ask the athlete how that feels? Is there a fear of the spring board?
+Next try some hurdle drills without the run to isolate the hurdle onto the board. For a Yurchenko vault you may want to break down the round off with a jump up. Ask the athlete how that feels? Is there a fear of the spring board?
 
 
 ####Step 4:
@@ -82,11 +82,13 @@ At this point you should look at what the result of the que and behavioral routi
 ##Coming up:
 In the next set of chapters I will help you:
 * Break down fear to help your athletes understand what they are afraid of
-* Remove uncertanty from the equasion
-* Empower your atheletes so they feel safer
+* Remove uncertainty from the equation
+* Empower your athletes so they feel safer
 * Use positive mental association
 
 And much more.
+
+
 
 
 
