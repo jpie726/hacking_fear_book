@@ -1,12 +1,11 @@
 ##Intro:
 
 ###Problem:
-//Need a story...
+Have you ever had to battle the fear monster when working with an athelete? Have you ever watched the athelete repeate the same behavior over and over again as if stuck in an painful loop? Ever wish you could break the loop and help them on the path to successfully beating that bad behavior pattern know as fear?
 
-<!-- ###This books solution: -->
 This book contains tips, tricks, phylosphies and stratigies I have developed or adapted from other people to help my athaleates overcome fear issues. 
 
-This book contains a lot of gymnastics references but the lessions can be applied to most any sport or even life in general.
+This book contains a lot of gymnastics references but the lessions can be applied to most any sport or performance based art.
 
 ###Who am I:
 Your probablly asking what makes you a expert on this topic Matt? If you are not you should be. 
@@ -26,9 +25,8 @@ My occupation as a web application architect is relivant here because through ou
 
 
 ###How to use this book:
+This book is not meant to be used like an instruction manual or a sceintific report. It is meirly a series of tips and tricks to add to your arsonal. There are some high level concepts I recomend familarizeing yourselfs with in the first couple of chaptors first before venturing to the end.
 
-//Not strictly
+If your lucky some of the concpets, tips, and tricks can be applied outside of the gym in your own lifes.
 
-//A bunch of tools to put into your repitwa
-
-//Not just for gymnastics but ofr life
+###Without further adue:
