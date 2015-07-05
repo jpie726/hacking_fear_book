@@ -29,7 +29,7 @@ Are you afraid of the hot burners on your stove? Arguably your stoves hot burner
 
 Because you know 100% what will happen if you place your hand on a hot burner: **It will hurt a lot, duh.**
 
-You also know exactly what you can do to avoid such pain: **Dont touch the burner!**
+You also know exactly what you can do to avoid such pain: **Don't touch the burner!**
 
 You know the exact actions you control that dictate the outcome of your interactions with the stove. In your mind you can be certain of the outcome so there is nothing to fear. It is no different with your athletes. 
 
