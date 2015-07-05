@@ -11,9 +11,9 @@ This book contains a lot of gymnastics references but the lessons can be applied
 ###Who am I:
 Before you start reading you should know the facts:
 
- I do NOT a doctorate in neuroscience
-No kid I have coached has ever gone to the olympics(yet).
-I am not some fancy psychologist
+* I do NOT a doctorate in neuroscience
+* No kid I have coached has ever gone to the olympics(yet).
+* I am not some fancy psychologist
 
 No. Oddly enough coaching gymnastics, is not even technically my full time career as in I don't do it for the money. Coaching Gymnastics is my passion, and I assume yours if you take the time to read this.
 
