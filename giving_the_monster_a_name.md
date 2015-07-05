@@ -26,7 +26,7 @@ I prefer to use the term "over thinking" the skill. With a "mental block" how do
 * The individual shapes you need to do the skill
 * Even butterflies and fairies if that does the trick
 
-Do you see how one label "over thinking" is actionable and the other label "mental block" is completely unactionable. 
+Do you see how one label "over thinking" is actionable and the other label "mental block" is completely un-actionable. 
 
 Other labels that are actionable include:
 
