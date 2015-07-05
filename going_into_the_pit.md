@@ -38,33 +38,60 @@ You know the exact actions you control that dictate the outcome of your interact
 Often times when teaching uneven bars I encounter girls with a fairly severe fear of going for their giants on high bar even over the open foam pit. Here is a mental exercise I use with my athletes to help remove uncertainty in their minds.
 
 Me: "What are you afraid of?"
+
 Athlete: "I don't Know" - This is expected
+
 Me: "What do you think is going to happen if you cast to handstand?"
+
 Athlete: "You are going to make me do a giant"
+
 Me: "Then what will happen?"
+
 Athlete: "I might ping or fall" - They jump right to the worst case scenario
+
 Me: "Okay, and where will you end up?" - I point at the pit
+
 Athlete: "...In the pit?"
+
 Me: "Have you ever been in the pit before?" - A silly question but I want them to realize how silly a fear of going into the pit would be
+
 Athlete:"Yes"
+
 Me: "Cool, so you know what it is like right?" - This is intended to show that the foam pit is a **familiar place they have been before and does not contain any uncertainties**, just foam.
+
 Athlete: "Yes" - If they were to say 'no' I would have them jump in a handful of times until they are familiar and comfortable
+
 Me: "Are you afraid of the pit? Is there a pit monster?" - Again another question aimed to point out how irrational a fear of the pit would be
+
 Athlete: "No"
+
 Me: "Okay now lets say you go for the giant and make it around. I am going to tell you 'great job' now hop off the bar and into the..."
+
 Athlete: "The pit"
+
 Me: "So if you do your giants you are going into the pit?" - A question aimed to make them realize the worse case scenario and the best case scenario have basically the same outcome
+
 Athlete: "...yes"
+
 Me: "Okay so lets say you decide your not going to go for it? In order to get down your going to need to jump into the...." - At this point hopefully they realize that all paths lead into the foam pit
+
 Athlete: "...into the pit"
 Me: "What are the chances that you will let go and fly away through the roof and end up in space?" - Another exaggeration to illustrate the irrationality of their fear. 
+
 Athlete:"Zero"
+
 Me: "So no matter what your going to end up in the...?"
+
 Athlete: "The pit..."
+
 Me:"The only difference is how you are going to feel afterward. If you go over the bar and try your giant how do you think you will feel?" 
+
 Athlete: "Good"
+
 Me: "You should, it will be awesome. How about if you jump down without trying?"
+
 Athlete: "I don't know, not good" 
+
 Me:"Probably not great. That is the big difference. You know no matter what your going in the pit. Now the choice is yours: You can drop down into the pit without going and you will probably feel blah or you can get up there on the bar and have a good chance of feeling like a rockstar. The choice is yours!"
 
 I have had this conversation literally hundreds of times. Yes the events, aperateratouses and skills change but the principal is the same: **If you can remove uncertainty from the equation then you can remove fear**.
