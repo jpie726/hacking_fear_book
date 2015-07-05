@@ -1,17 +1,17 @@
 # Debugging/Fixing Habit Loops
-This chapter is where my computer skills start to come in handy. In order to build secure web applications you need to know a little about the dark arts of hacking. Using similar techniques I have used to disrupt computer loops and alter a system's behavior I have had success applying them to my athletes to disrupt unwanted habit loops and alter their unwanted behavior routines to benifit the athelete.
+This chapter is where my computer skills start to come in handy. In order to build secure web applications you need to know a little about the dark arts of hacking. Using similar techniques I have used to disrupt computer loops and alter a system's behavior I have had success applying them to my athletes to disrupt unwanted habit loops and alter their unwanted behavior routines to benefit the athlete.
 
-Here I outline 4 tequniques I have developed over the years to help you get your athelete through their fear issues:
+Here I outline 4 techniques I have developed over the years to help you get your athlete through their fear issues:
 
 * Disruption
 * Association
-* Repition
+* Repetition
 * Empowerment
 
-Lets get into it.
+Let's get into it.
 
 ###Disruption:
-When a computer system expects a number and you put in letters this is a form of disruption. The same can be applied to an athlete's habit loop to bypass the cue that triggers the unwanted behavior routine preventing the athelete from completing their skills.
+When a computer system expects a number and you put in letters this is a form of disruption. The same can be applied to an athlete's habit loop to bypass the cue that triggers the unwanted behavior routine preventing the athlete from completing their skills.
 
 
 ####Drill Progression Ques:
@@ -19,7 +19,7 @@ For example let's say the athlete is afraid of _Skill C_ and they know that duri
 
 Often times I am asked by other coaches to help their athletes get through their fear issues. The coach will tell the athlete "Go work with Matt on your giants". The athlete will tense up expecting me to toss them right up on the bar. Instead I will then spend the next 20 minutes doing shaping drills, back extension rolls, and other floor drills. Once the athlete is comfortable and I am happy with their basics we will eventually make our way to the real bar. 
 
-Again they tense up in anticipation of the impending giant. I will then have them do tap swings, perhaps some casts,and a hand full of clear hip circles focusing on grip flip until they big scary giant swing is again no longer in the front of their mind. Finally we work our way to the point where the athlete's mental defenses twards the skill are down. Now it is time to start thinking about working that big end skill. 
+Again they tense up in anticipation of the impending giant. I will then have them do tap swings, perhaps some casts,and a hand full of clear hip circles focusing on grip flip until they big scary giant swing is again no longer in the front of their mind. Finally we work our way to the point where the athlete's mental defenses towards the skill are down. Now it is time to start thinking about working that big end skill. 
 
 Before you do I want to review some other points with you. 
 
@@ -36,11 +36,11 @@ Another advantage of coaching at camp is that camp is a brand new enviroment. He
 * The coaching staff and the techniques they use
 * The facility
 * The group dynamics are altered by the other children that are not on your team
-* Litterally the bed they wake up in and the food they eat for breakfast
+* Literally the bed they wake up in and the food they eat for breakfast
 
 All of this new stimuli might be enough to overwhelm to forget their fear or the complete change of environment might just be different enough the ques don't get triggered in quite the same way.  Either way it's a huge advantage I have here at camp to overcome unwanted behavioral routines.
 
-You can use similar approaches by tweaking variables in the atheletes enviroment. 
+You can use similar approaches by tweaking variables in the athlete's environment. 
 
 * You could go to a camp or you could go to a friendly gym. 
 * You might not need to change the entire environment, try doing your drills in a different part of the gym or try brining the athlete in at a different time of day. 
@@ -84,12 +84,12 @@ This lead me to wonder if the opposite was true:
 
 **If I occupied the side that processed that audible information, that 'voice in the back of my head' then would that free the portion of the brain that is used to perform predetermined physical routines?**
 
-After years of research, discussion and testing different applications of this theory in pratice with various atheletes I have found some techniques that have worked well for me.
+After years of research, discussion and testing different applications of this theory in practice with various athletes I have found some techniques that have worked well for me.
 
 ##Positive Association/My mother's cooking:
 There is another way association can be used to silence **the voice in the back of their head**. 
 
-Back in 2013 a coach came to me with an athlete that had a "mental block"(we will discuss this verbage later). The coach sent her athlete to me saying "Matt is going to work with you on SKILL X". If you remember earlier the mention of the skill's name can be a verbal cue to trigger the defensive habit loops that prevent the athlete from performing the skill. This was indeed one of those times. The athlete was afraid to even touch the apparatus. I observed this right away. We took a step back and I started applying my disruption techniques I talked about earlier. We started with basic floor drills that the athlete would have difficulty objecting to. 
+Back in 2013 a coach came to me with an athlete that had a "mental block"(we will discuss this verbiage later). The coach sent her athlete to me saying "Matt is going to work with you on SKILL X". If you remember earlier the mention of the skill's name can be a verbal cue to trigger the defensive habit loops that prevent the athlete from performing the skill. This was indeed one of those times. The athlete was afraid to even touch the apparatus. I observed this right away. We took a step back and I started applying my disruption techniques I talked about earlier. We started with basic floor drills that the athlete would have difficulty objecting to. 
 
 As we progressed I started to ask a series of seemingly unrelated questions aimed at creating a simple dialog with the athlete. 
 
@@ -122,7 +122,7 @@ During this exercise I started out using our conversation in between drills to a
 * Her Grandma
 * Her Dog
 
-Theoretically this prevented interuption of the section of her brain that was controlling the physical actions by the part of her brain that previously screamed scary/negative thinking because that section was occupied with positive mom/dog/grandma thoughts.
+Theoretically this prevented interruption of the section of her brain that was controlling the physical actions by the part of her brain that previously screamed scary/negative thinking because that section was occupied with positive mom/dog/grandma thoughts.
 
 Basically I associated positive thoughts with the environment, the skills, and perhaps even myself. This made the athlete more comfortable and able to complete the skill without the fear popping back up.
 
@@ -146,15 +146,15 @@ It's tough to coach an athlete through a skill you yourself do not believe them 
 ####Putting words to it:
 In 2013 I had the good fortune to attend a coaching clinic by an olympian on the topic of the mental side of gymnastics(I hope in future drafts of this book she will give me permission to use her name). It was an amazing clinic that opened my eyes to some great philosophies and techniques for dealing with fear. One of the things that really resonated with me was that she created audible cues to go along with her beam and floor routines. 
 
-She broke down and isolated each part of the beam or floor routine. Then added audible cues the athelete would repeat to themselves in the exact same sequence every time. When put together it became a routine.
+She broke down and isolated each part of the beam or floor routine. Then added audible cues the athlete would repeat to themselves in the exact same sequence every time. When put together it became a routine.
 
-######Hypothisis - Floor vs Beam Ques:
+######Hypothesis - Floor vs Beam Ques:
 Perhaps the presence of audible cues in the form of the music played along with a floor routine and the absence of any audible cues on beam can explain why you see so much more fear issues on the beam then floor.
 
-Observing a famous choreographer/coach use music to set the pace of his beam complex and watching the atheletes carry out the complex with out insident leads me to belive this theory might hold some water. 
+Observing a famous choreographer/coach use music to set the pace of his beam complex and watching the athletes carry out the complex without incident leads me to believe this theory might hold some water. 
 
 #####Applying it:
-Try it in your gym. For each skill in a particular series of skills leading up to or including the big bad skill make up simple verbal cues that can be strung together in a sequence that the athelete can use to assist their physical actions. 
+Try it in your gym. For each skill in a particular series of skills leading up to or including the big bad skill make up simple verbal cues that can be strung together in a sequence that the athlete can use to assist their physical actions. 
 
 Here is an example that I successfully used recently to help a girl through her giant, giant, fly aways on bars:
 
@@ -204,12 +204,12 @@ John Wooden is widely renowned as one of the best collegiate basketball coaches 
 
 During the players first practice he would spend an incredible amount of time focused on the tiniest details. He would literally walk his athletes through how to lace up their shoes.
 
-Imagine if we trained these tiny details in our respective sports? What if in gymnastics during the first practice after moving athletes up from a lower level we stopped and took the time to review the exact process of gripping up and chalking up for bars? By teaching them the right way you could decrease the 10 minutes teenagers seem to waste gripping up and chalk talk inbetween turns.
+Imagine if we trained these tiny details in our respective sports? What if in gymnastics during the first practice after moving athletes up from a lower level we stopped and took the time to review the exact process of gripping up and chalking up for bars? By teaching them the right way you could decrease the 10 minutes teenagers seem to waste gripping up and chalk talk in between turns.
 
 ###Back to our earlier example:
-Remember the earlier association example? I told you I broke down the young athelete's drills to basics right? I also used repetition to enforce certain habit loops I wanted to mentally condition into her as we progressed back toward the high bar and the big skill.
+Remember the earlier association example? I told you I broke down the young athlete's drills to basics right? I also used repetition to enforce certain habit loops I wanted to mentally condition into her as we progressed back toward the high bar and the big skill.
 
-Once we moved past the basic floor exercises I tried to do each drill three times before letting her down to chalk. We then repeate that cycle three times before progressing onto the next drill. 
+Once we moved past the basic floor exercises I tried to do each drill three times before letting her down to chalk. We then repeat that cycle three times before progressing onto the next drill. 
 
 * 3 cast handstands then chalk then repeated three times
 * 3 clearhips to horizontal then chalk the repeat three times
@@ -223,7 +223,7 @@ As we progressed I would test certain parts of her shape before every turn when 
 
 Similar verbal cues were used each time she got up to do the skill and got down to chalk.
 
-The big reason for all of this was that when it came time to do _the big scary skill_ absolutely nothing had changed. Same verbal ques, same kinesthetic cues, no variation beyond "finishing like a back extension roll" which is something the athlete had been doing since she was a level 4 and was comfortable with. Since I had not introduced even a single new variable there was no uncertainty in her mind both subconscious and conscious. No uncertainty their fore no fear. 
+The big reason for all of this was that when it came time to do _the big scary skill_ absolutely nothing had changed. Same verbal ques, same kinesthetic cues, no variation beyond "finishing like a back extension roll" which is something the athlete had been doing since she was a level 4 and was comfortable with. Since I had not introduced even a single new variable there was no uncertainty in her mind both subconscious and conscious. No uncertainty therefore no fear. 
 
 So she got up and performed the repetitions we had been practicing and sure enough popped that giant strait up to handstand. Of course we did two more with the exact same ques before I let her down to chalk. 
 
@@ -234,7 +234,7 @@ Because it was not part of the routine we had built I never even mentioned the n
 
 
 ###Decision Fatigue:
-In this [Fast Company](http://www.fastcompany.com/3026265/work-smart/always-wear-the-same-suit-obamas-presidential-productivity-secrets) article they talk about how the President of America always wears the same suit. He applys this to a lot of day to day decisions that most of us as adults make like what he eats for breakfast. Why is this? The answer:
+In this [Fast Company](http://www.fastcompany.com/3026265/work-smart/always-wear-the-same-suit-obamas-presidential-productivity-secrets) article they talk about how the President of America always wears the same suit. He applies this to a lot of day to day decisions that most of us as adults make like what he eats for breakfast. Why is this? The answer:
 
 **He doesn't want to waste his decision making power.**
 
@@ -252,12 +252,12 @@ Allowing your athlete to diverge from their daily routine in the gym forces them
 
 
 ##Empowerment:
-One of the last tools I have in my bag of tricks is empowerment. This means showing the athlete how much they actually have control over. Earlier we talked about how uncertainty in the athlete's mind causes fear. Showing the athelete that they control the outcome of the skill by chosing their actions removes uncertanty and puts the power in their hands. Remember remove uncertanty then ou remove fear.
+One of the last tools I have in my bag of tricks is empowerment. This means showing the athlete how much they actually have control over. Earlier we talked about how uncertainty in the athlete's mind causes fear. Showing the athlete that they control the outcome of the skill by choosing their actions removes uncertainty and puts the power in their hands. Remember remove uncertainty then you remove fear.
 
-###Take the mystery out of it by focus on what they can control:(POSSIBLY MOVE TO PREVIOUS CHAPTER)
+###Take the mystery out of it by focus on what they can control:
 Remember the child that was afraid of the monster under the bed in our earlier example? We removed some uncertainty from their mind by showing them there is no monster under the bed. What if we put some control into their hands by leaving them a flashlight on their night stand so that any time they felt that mean old monster might be under the bed they could check for themselves. 
 
-Often times the control is already there they just don't realize it. In the end it's not you the coach/parent that controls the athlete's body. It's all them, the athelete. 
+Often times the control is already there they just don't realize it. In the end it's not you the coach/parent that controls the athlete's body. It's all them, the athlete. 
 
 ###Example:
 Let's say little Susie saw another athlete ping off the bar and no one explained what caused the ping. All she knows is the girl casted up to do a giant(a big scary skill) and something went bad. What caused it is _uncertain_ in her mind. Maybe the athlete that pinged had the wrong stuff for breakfast. It could have been a bad spot by the coach. It could have been the bar she was swinging on. It could have been that the skill itself is a death trap. Or even potentially voodoo. The athlete could imagine up any amount of ridiculous reasons the skill went wrong but will probably end up blaming the skill. 
@@ -280,15 +280,14 @@ Now they all of the sudden have control of the outcome. They no longer can attri
 I suggest breaking down big skills into smaller pieces that the athlete can focus on. Peaces they are comfortable with.
 
 #####Start with the scary part:
-Start witht he drop into the giant or the leaning back on the back handspring on beam. What part of that does the athelete control that can make for a better outcome of the skill?
+Start with the drop into the giant or the leaning back on the back handspring on beam. What part of that does the athlete control that can make for a better outcome of the skill?
 
 
-#####Start at the begining:
-If there is no scary part start at the beginning. ---//Losing steam here
-Lets say were correcting a vault and we see a slow run and an open early tuck off the table where should we start? With the tuck at the end? Or the slow run? You might be able to squeeze a couple more degrees of rotation out of the flip by tucking tighter but doubling their run speed will have a lot bigger effect on the end skill.
+#####Start at the beginning:
+If there is no easily identifiable scary part then start at the beginning. Let’s say were correcting a vault and we see a slow run and an open early tuck off the table where should we start? With the tuck at the end? Or the slow run? You might be able to squeeze a couple more degrees of rotation out of the flip by tucking tighter but doubling their run speed will have a lot bigger effect on the end skill.
 
-#####Try communicating in que, routine reward format:
-Here is a correction I used recently for an athelete afraid of a round off on beam: 
+#####Try communicating in cue, routine reward format:
+Here is a correction I used recently for an athlete afraid of a round off on beam: 
 _"When starting your round off on beam start to kick your back leg up over before reaching for the beam or turning your hips then the skill will turn over quicker and easier"_
 
 Lets break it down:
@@ -298,19 +297,19 @@ Lets break it down:
 3. Reward: "...then the skill will turn over quicker and easier"
 
 #####Focus on specific muscles:
-One of the worst corrections I hear constantly is "Go faster or go higher". What muscle group do you need to fire to 'go faster'? Answer that question and communicate that answer to the athelete.
+One of the worst corrections I hear constantly is "Go faster or go higher". What muscle group do you need to fire to 'go faster'? Answer that question and communicate that answer to the athlete.
 
-For the above round off example have them kick their back leg high by actually fire their glutes and hamstrings. This should reenforce these muscles fireing during their behavioral routine.
+For the above roundoff example have them kick their back leg high by actually fire their glutes and hamstrings. This should reinforce these muscles firing during their behavioral routine.
 
 ####Blinders:
 Have you ever seen a horse and buggy? Most of the time the horse has some weird head gear on that shields their peripheral vision. This basically blinds them to anything that is not in front of them. This is so that the horse doesn't get spooked or distracted by things that are outside of the area the driver wants them focused on.
 
-Figuring out what to focus on is only half the battle. Keeping your atheles focused on those actions is key. We all have a limited amount of mental processing power. We can only focus on so many things at a time. The last thing you need are distractions poping up to pull their focus away from the important things.  Help your athletes keep focused on the variables in their control by creating blinders of your own.
+Figuring out what to focus on is only half the battle. Keeping your athletes focused on those actions is key. We all have a limited amount of mental processing power. We can only focus on so many things at a time. The last thing you need are distractions popping up to pull their focus away from the important things.  Help your athletes keep focused on the variables in their control by creating blinders of your own.
 
 #####Environment Blinders:
 This one is obvious but important all the same. Make sure there are no distractions in the environment. No changing variables that are not in your athletes or at least your control. For example birthday parties in the gym with little ones running around create a whole new level of visual and audible distractions. Not to mention the potential child running through the bottom of the bar as your athlete cast up for a big skill.
 
-The human element in the enviroment counts too. Parents, Sibblings, and Teammates all can be distractions too. 
+The human element in the environment counts too. Parents, Siblings, and Teammates all can be distractions too. 
 
 Cheering on the athlete in some cases might be a distraction; not for everyone but for some. 
 
@@ -333,8 +332,10 @@ A lot of times I tell the athletes to "Own it" right before a pass. Let's say fo
 
 "Own the round off, own the handspring, own the back tuck at the end. They are all yours. You are in control of it"
 
-##Conlusion:
-//TODO: Write this
+##Conclusion:
+That concludes my tips and tricks for disrupting the unwanted behaviors and conditioning in beneficial habits. In our next section we will cover some areas you as a coach/parent might want to change about your behavior.
+
+
 
 
 
