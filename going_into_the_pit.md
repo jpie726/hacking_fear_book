@@ -94,7 +94,7 @@ Athlete: "I don't know, not good"
 
 Me:"Probably not great. That is the big difference. You know no matter what your going in the pit. Now the choice is yours: You can drop down into the pit without going and you will probably feel blah or you can get up there on the bar and have a good chance of feeling like a rockstar. The choice is yours!"
 
-I have had this conversation literally hundreds of times. Yes the events, aperateratouses and skills change but the principal is the same: **If you can remove uncertainty from the equation then you can remove fear**.
+I have had this conversation literally hundreds of times. Yes the events, apparatus and skills change but the principal is the same: **If you can remove uncertainty from the equation then you can remove fear**.
 
 Gymnastics coaches will probably thinking "But approach will not work when getting kids to swing the giant outside of the foam pit? What about on regular bar?". Lets be honest even the pit is not 100% safe. 90% maybe but nothing is 100%. We as coaches are responsible to build a training environment at each stage of the training process that can remove the possibility of catastrophic injury beyond a reasonable doubt. There are plenty of techniques for doing this: Adding additional matting, spotting belt, hand spotting the skill, etc. Unfortunately what seems like a reasonable doubt to us, to the lawyers, and to the athlete are three different things but still you must try and make it as safe as possible.
 
