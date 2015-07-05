@@ -84,7 +84,7 @@ The brain's perceives result of the actions after they are taken.
 
 
 ####Example 1:
-The most basic and well know expirement is [Pavlov's Dogs](http://www.simplypsychology.org/pavlov.html). This is a fairly well known experiment where Ivan Pavlov conditioned dogs to associate a bell ringing with dinner time. Over time the dogs would hear the bell and start to salivate in anticipation of dinner. Eventually the bell alone without food was enough to trigger the salivation. Lets break this down:
+The most basic and well know experiment is [Pavlov's Dogs](http://www.simplypsychology.org/pavlov.html). This is a fairly well known experiment where Ivan Pavlov conditioned dogs to associate a bell ringing with dinner time. Over time the dogs would hear the bell and start to salivate in anticipation of dinner. Eventually the bell alone without food was enough to trigger the salivation. Lets break this down:
 
 * Cue: The Bell
 * Routine: The brain tells the body to start to salivate
