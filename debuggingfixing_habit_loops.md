@@ -96,19 +96,33 @@ As we progressed I started to ask a series of seemingly unrelated questions aime
 Questions like "What is your favorite subject in school?". On a side note I do have a series of questions are actually aimed at figuring out the athlete's learning style but I will save that topic for another book.
 
 Me:"What did you have for breakfast?"
+
 The Athlete: "Pancakes"
+
 Me: "Nice, I am not a fan of the pancakes here at camp."
+
 The Athlete: "Me neither"
+
 Me: "I had eggs with hot sauce on them"
+
 The Athlete: "Yuck!?!"
+
 Me: "Have you tried it?"
+
 The Athlete: "No!"
+
 Me: "You should try it"
+
 The Athlete: "..."
+
 Me: "Breakfast is my favorite meal. Do you know why?"
+
 The Athlete: "Why?"
+
 Me: "When I was a kid my mom was raising me and my brother and working full time but she always woke up before the crack of dawn to cook a warm breakfast for us. I never went to school without a warm breakfast."
+
 The Athlete: "You're lucky"
+
 Me: "I know. Tell me about your mom"
 
 The athlete and I then proceeded to have a long conversation about her mom, her dog, her grandma, etc; All positive things in her life. As we talked I was walking her closer and closer to the big skill by progressing through seemingly random drills. All the while I never mentioned the name of the big skill; the verbal cue which would trigger the unwanted behavior routine. 
