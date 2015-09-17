@@ -1,6 +1,3 @@
-_BEFORE READING THIS DRAFT: If you are reading this draft of the book it is my first draft. I started writing this book 2 weeks ago while here at camp as a mental exercise for myself. This first draft is NOT a final draft. It is intended to grab the early feedback that is key to writing any quality work. By reading this and providing feedback YOU are becoming part of the book publishing process and I(Matt Lea) truly appreciate it._
-
-
 ##Introduction:
 Have you ever had to battle the fear monster when working with an athlete? Have you ever watched the athlete repeat the same behavior over and over again as if stuck in an painful loop? Ever wish you could break the loop and help them on the path to successfully beating that bad behavior pattern know as fear?
 
