@@ -1,18 +1,18 @@
 ##Introduction:
-Have you ever had to battle the fear monster when working with an athlete? Have you ever watched the athlete repeat the same behavior over and over again as if stuck in an painful loop? Ever wish you could break the loop and help them on the path to successfully beating that bad behavior pattern know as fear?
+Have you ever had to battle the with fear when working with an athlete? Have you ever watched the athlete repeat the same actions over and over again as if stuck in a painful loop? Do you ever wish you could break the loop and help them on the path to successfully beating that behavior pattern?
 
-This book contains tips, tricks, philosophies and strategies I have developed or adapted from other people to help my athletes overcome fear issues. 
+This book contains tips, tricks, philosophies and strategies I have developed or adapted from other people to help my athletes overcome these issues. 
 
-This book contains a lot of gymnastics references but the lessons can be applied to most any sport or performance based art.
+This book contains many gymnastics references but the lessons can be applied to near any sport or performance based art.
 
 ###Who am I:
 Before you start reading you should know the facts:
 
-* I do NOT a doctorate in neuroscience
-* No kid I have coached has ever gone to the olympics(yet).
+* I am NOT a doctorate in neuroscience
+* Any kids I have coached have yet to go to the olympics.
 * I am not some fancy psychologist
 
-No. Oddly enough coaching gymnastics, is not even technically my full time career as in I don't do it for the money. Coaching Gymnastics is my passion, and I assume yours if you take the time to read this.
+Oddly enough, coaching is not even technically my full time career as in I don't do it for the money. Coaching gymnastics is my passion, and I assume yours if you take the time to read this.
 
 What I do to make money is architect large scale web applications. Try googling "Matt Lea Wall Street Journal" or "Tech Crunch Disrupt Hackathon Winner 2012 Livebolt" for some fun reads on my adventures in tech startup land.
 
